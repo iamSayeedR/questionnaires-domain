@@ -1,0 +1,19 @@
+{
+  "type": "java 17",
+  "answers": [
+    {
+      "questionId": 1,
+      "answers": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "questionId": 2,
+      "answers": [
+        "A",
+        "B"
+      ]
+    }
+  ]
+}
